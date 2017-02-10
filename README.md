@@ -9,3 +9,5 @@ to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 ~/repos/website/README.md
+<--! add an image -->
+<img src="path/to/file" alt="Description">
